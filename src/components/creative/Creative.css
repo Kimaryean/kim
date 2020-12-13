@@ -1,0 +1,37 @@
+
+.creative_title{
+  
+    font-family: Apple SD Gothic Neo;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+  
+}
+
+.creative_btn{
+      
+    width: 90px;
+    height: 90px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-color: #718AE9;
+    box-sizing: border-box;
+    color: #ffffff;
+    margin-top: 80px;
+    outline: 0;
+    border: 0;
+    font-size:35px;
+    font-weight: 250;
+    font-family: Josefin Sans;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 60px;
+}
+
+
+
+.creative_postition{
+    
+    padding-left: 220px;
+}

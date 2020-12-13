@@ -1,0 +1,31 @@
+.rooms_title{
+
+  font-family: Mukta Malar;
+  font-weight: bold;
+  font-size: 23px;
+  color: #000000;
+  display: inline-block;
+  margin-top:-2%;
+  margin-bottom: 30px;
+  
+    
+}
+.room_btn{
+    outline: 0;
+    border: 0;
+    font-family: Fira Sans;
+    outline:none;
+    background-color: #718AE9;
+    color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width:170px;
+    height: 30px;
+    justify-items: center;
+    
+}
+.room_btn:hover{
+    background-color: #ffffff;
+    color:#718AE9;
+    border: 3px solid #718AE9 ;
+}

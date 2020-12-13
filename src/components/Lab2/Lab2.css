@@ -1,0 +1,61 @@
+
+.lab2_title{
+  
+    font-family: Apple SD Gothic Neo;
+    
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+  
+}
+
+.seat_btn {
+
+    width: 120px;
+    height: 120px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-color: #718AE9;
+    box-sizing: border-box;
+    color: #ffffff;
+    margin-top: 80px;
+    outline: 0;
+    border: 0;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Josefin Sans;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 60px;
+   
+}
+
+
+.lab2_postition{
+
+    padding-left: 250px;
+    padding-right:150px;
+}
+
+.seatbtn2{
+
+    
+    width: 120px;
+    height: 120px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-color: #718AE9;
+    box-sizing: border-box;
+    color: #ffffff;
+    margin-top: 80px;
+    outline: 0;
+    border: 0;
+    font-size:35px;
+    font-weight: 300;
+    font-family: Josefin Sans;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 60px;
+    
+}
+
